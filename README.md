@@ -35,3 +35,10 @@ shasum -a 256 -c SHA256SUMS
 ```
 
 This repository contains distribution information and release binaries only. It does not contain the application's development source code. Intel Macs are not supported by this release.
+
+## Legal information
+
+- [Terms of Service](https://moflutter.github.io/remoremo-legal/terms/)
+- [Privacy Policy](https://moflutter.github.io/remoremo-legal/privacy/)
+
+The web policy describes v6 signaling and device storage. Installed app versions may contain an earlier bundled document.
