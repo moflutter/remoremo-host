@@ -13,7 +13,7 @@ REMOREMO Host lets you connect to your Mac using REMOREMO Client on iPhone or iP
 - Apple Silicon Mac (arm64)
 - macOS 13.0 or later
 - REMOREMO Client
-- For initial pairing, the Mac and Client device must be on the same LAN and able to communicate with each other.
+- For initial pairing, the devices need a reachable local connection or compatible Client, Host and signaling versions on a network that supports Direct P2P internet pairing.
 
 ## Installation
 
@@ -41,4 +41,3 @@ This repository contains distribution information and release binaries only. It 
 - [Terms of Service](https://moflutter.github.io/remoremo-legal/terms/)
 - [Privacy Policy](https://moflutter.github.io/remoremo-legal/privacy/)
 
-The web policy describes v6 signaling and device storage. Installed app versions may contain an earlier bundled document.
